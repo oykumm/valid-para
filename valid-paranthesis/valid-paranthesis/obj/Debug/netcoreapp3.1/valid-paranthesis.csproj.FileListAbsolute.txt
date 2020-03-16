@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\valid-paranthesis\valid-paranthesis\bin\Debug\netcoreapp3.1\valid-paranthesis.exe
+C:\Users\ASUS\source\repos\valid-paranthesis\valid-paranthesis\bin\Debug\netcoreapp3.1\valid-paranthesis.deps.json
+C:\Users\ASUS\source\repos\valid-paranthesis\valid-paranthesis\bin\Debug\netcoreapp3.1\valid-paranthesis.runtimeconfig.json
+C:\Users\ASUS\source\repos\valid-paranthesis\valid-paranthesis\bin\Debug\netcoreapp3.1\valid-paranthesis.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\valid-paranthesis\valid-paranthesis\bin\Debug\netcoreapp3.1\valid-paranthesis.dll
+C:\Users\ASUS\source\repos\valid-paranthesis\valid-paranthesis\bin\Debug\netcoreapp3.1\valid-paranthesis.pdb
+C:\Users\ASUS\source\repos\valid-paranthesis\valid-paranthesis\obj\Debug\netcoreapp3.1\valid-paranthesis.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\valid-paranthesis\valid-paranthesis\obj\Debug\netcoreapp3.1\valid-paranthesis.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\valid-paranthesis\valid-paranthesis\obj\Debug\netcoreapp3.1\valid-paranthesis.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\valid-paranthesis\valid-paranthesis\obj\Debug\netcoreapp3.1\valid-paranthesis.dll
+C:\Users\ASUS\source\repos\valid-paranthesis\valid-paranthesis\obj\Debug\netcoreapp3.1\valid-paranthesis.pdb
